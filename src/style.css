@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Inter, sans-serif;
+    height: 100vh;
+    background-color: #1A1B21;
+}
+
+.nav--image{
+    
+    width: 500px;
+    padding: 60px;
+    margin-left: 35%;
+    margin-bottom: 0px;
+    
+}
+
+.name{
+    color: aliceblue;
+    /* font-family: 'Inter';
+    font-style: normal; */
+    font-weight: 10000;
+    font-size: 35px;
+    line-height: 0px;
+    text-align: center;
+}
+
+.frontend{
+    text-align: center;
+    color: coral;
+    font-weight: 100;
+}
+
+.about{
+    color:aqua;
+    margin-left:30%;
+}
+
+.paragraph{
+    color: antiquewhite;
+    margin-left:30%;
+    margin-right: 30%;
+}
+
+.footer{
+    margin-left: 30%;
+    text-align:center;
+    width: 662px;
+    height: 64px;
+    left: 10px;
+    top: 760px;
+
+    background: rgb(4, 4, 40);
+    border-radius: 0px 0px 10px 10px;
+}
+
